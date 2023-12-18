@@ -17,3 +17,5 @@ router.get('/', function(req, res) {
 
 //how do we send static assests from server?
 // what goes into middleware? is a route part of it? how do you define which routes are exposed to public? what do routes expose? what functionalites are exposed? what does public know? 
+
+//then what does it do? next? or what? could that be it?  
