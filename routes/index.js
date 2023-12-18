@@ -27,3 +27,5 @@ router.get('/', function(req, res) {
 //what is a req.time being set? how do we add a time to a request we get? how does it become availabel to everything after? is it useful for server to know when request happened? if its in app.use how would it be useful? would it pop up later? what is req.basePath, what did we set it to? 
 
 //how do we query mongo directly from routes? how do we respond to this? 
+
+//what happens if if we put route below routes? is what we add in the lower one, available in the higher ones? why do we put middleware functionality in certain locations? is it useful in indexRouter? do we exist funnel when we access router? 
