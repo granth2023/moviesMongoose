@@ -29,3 +29,13 @@ export {
 
 //does client need to play ncie with API? 
 //why are schema and model seperated out? is there anything else you can do with a schema? do we set up properties? do we set up pre and post? can we set up validation? static methods? does this all happen in schema? does this set up default property value? what is a default property value of cat? something immutable? 
+
+
+// how do we initlizae this file? what do we paste? what do we assign it to? where do we get our connection string from? 
+
+
+// how do we link mongodb to mongoose? what should link look like? 
+
+
+// can we use same string except for name for the db in other projects? what other package do we need to install? how do we isntall dot env  
+
