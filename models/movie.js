@@ -53,3 +53,9 @@ export {
 //when do they get put into memory? 
 //what if we took everything 
 //what is a better way? whats the better way tot structure
+
+//what is a model? is it ocmplied from schema? what do we do with schema? do we pass it? to what? what will be able to do? is it CRUD? How do you read form Mongo? how do you read? write? in mongo? insert? hwo do we update? update? how do delete? waht are the mongo crud operations? are they available now through the model? can we compile schema into model? can we say mongoose dot model 
+
+//can pass the schema and name of the thing we are adding via the model from mongoose? 
+
+//we do we need to export this? how ? is it object? what  sit he name? waht does the name represent when you do the model? is it a database? is it a colelction? is it like class? under hood is it creating a collection? can we now do CRUD? 
