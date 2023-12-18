@@ -29,3 +29,5 @@ router.get('/', function(req, res) {
 //how do we query mongo directly from routes? how do we respond to this? 
 
 //what happens if if we put route below routes? is what we add in the lower one, available in the higher ones? why do we put middleware functionality in certain locations? is it useful in indexRouter? do we exist funnel when we access router? 
+
+//what is a method override middleware? is it necessary? how does it transmute anything for delete or update? you import it as what? how do you use it? does it become part of middleware? 
