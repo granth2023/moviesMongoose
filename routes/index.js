@@ -25,3 +25,5 @@ router.get('/', function(req, res) {
 //what is express dot json? what is the same? what is cors fucntionality? is middleware just one line or can be many? how does it go to the next hting? 
 
 //what is a req.time being set? how do we add a time to a request we get? how does it become availabel to everything after? is it useful for server to know when request happened? if its in app.use how would it be useful? would it pop up later? what is req.basePath, what did we set it to? 
+
+//how do we query mongo directly from routes? how do we respond to this? 
