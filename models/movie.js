@@ -11,3 +11,9 @@ const movieSchema = new Schema({
 },{
     timestamps: true
 })
+
+const Movie = mongoose.model('Movie', movieSchema)
+
+export {
+    Movie
+}
