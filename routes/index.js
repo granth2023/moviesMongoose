@@ -19,3 +19,5 @@ router.get('/', function(req, res) {
 // what goes into middleware? is a route part of it? how do you define which routes are exposed to public? what do routes expose? what functionalites are exposed? what does public know? 
 
 //then what does it do? next? or what? could that be it?  
+
+//what is a controller? is it importnat for middleware? what is a controller vs routes? why do they exist? why are they seperate from router? how do we stay organized? is it easier to see routes as themselves? are the conrollers modularized? 
