@@ -9,3 +9,4 @@ router.get('/', function(req, res) {
 
 //function(req, res)  is a callback function
 //next --> what is that saying? move onto the next function? 
+//what is the next funciton? what is a way for middleware to go to the next step? 
