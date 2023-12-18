@@ -64,3 +64,8 @@ export {
 //how do we connect to compass? do we add the string form atlas into connection string? 
 
 //can we create new isntances of databases in that cluster? how many clusters do we get? do we get to create other databases? what if we leave connection string empty? will it go to default database? 
+
+//do we need to write? 
+// do we create a to do? 
+
+// what can we do 
