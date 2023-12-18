@@ -35,3 +35,7 @@ router.get('/', function(req, res) {
 //how many nice middlewares are out there? how do you add middleware to code? is it app dot use? 
 
 //is node synchronous ?is middleware asych? should it be asynchronous? do we wnat it to hit middleware b efore it hits the routes? do we want other things happening simulataneously? 
+
+//where is next being called? what is going inside app dot use? is it calling next? can we find the under the hood stuff for cors in the modules? waht is a cors function? 
+
+//can we set up any middleware to do random stuff? what do we ultmately want to do with our server? do we want to return a response in a specific format? what format are we using? 
