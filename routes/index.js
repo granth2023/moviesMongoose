@@ -31,3 +31,7 @@ router.get('/', function(req, res) {
 //what happens if if we put route below routes? is what we add in the lower one, available in the higher ones? why do we put middleware functionality in certain locations? is it useful in indexRouter? do we exist funnel when we access router? 
 
 //what is a method override middleware? is it necessary? how does it transmute anything for delete or update? you import it as what? how do you use it? does it become part of middleware? 
+
+//how many nice middlewares are out there? how do you add middleware to code? is it app dot use? 
+
+//is node synchronous ?is middleware asych? should it be asynchronous? do we wnat it to hit middleware b efore it hits the routes? do we want other things happening simulataneously? 
