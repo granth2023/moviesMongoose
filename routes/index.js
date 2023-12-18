@@ -44,3 +44,9 @@ router.get('/', function(req, res) {
 
 
 //what is mongoose? what is a schema? is mongod non strucutreD? why are we creating a strucutre? can we do validations on it? 
+
+//do apps benefit for stuctured data? is this analoguous to typed and dynamic language? 
+//why was typescript created? 
+//why was mongodb created? is it strucutred out of the box? can we make it strucuted? 
+// what property values should be? what are dot body? when we define data how do we define the property value, the data type? is that data validation? what is default property values? what if someone doesnot provide the data? what is data validation? what do we need to make sure a title is? a string? numbeR? 
+//
