@@ -59,3 +59,8 @@ export {
 //can pass the schema and name of the thing we are adding via the model from mongoose? 
 
 //we do we need to export this? how ? is it object? what  sit he name? waht does the name represent when you do the model? is it a database? is it a colelction? is it like class? under hood is it creating a collection? can we now do CRUD? 
+
+
+//how do we connect to compass? do we add the string form atlas into connection string? 
+
+//can we create new isntances of databases in that cluster? how many clusters do we get? do we get to create other databases? what if we leave connection string empty? will it go to default database? 
