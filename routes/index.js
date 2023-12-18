@@ -39,3 +39,5 @@ router.get('/', function(req, res) {
 //where is next being called? what is going inside app dot use? is it calling next? can we find the under the hood stuff for cors in the modules? waht is a cors function? 
 
 //can we set up any middleware to do random stuff? what do we ultmately want to do with our server? do we want to return a response in a specific format? what format are we using? 
+
+//does next have an order of opertaions? waht is it saying? what app dot waht is it using? have we been using for our http requests? can we do asych await? do we use it on the front end? what does fetch respond with? does it respond with a promise? can we use a dot then or an asych await for both? is asych simpler way to do dot then? does dot then have more granular functinality? is asych await more basic? which do we do for single request and response? is next for middleware? 
