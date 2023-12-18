@@ -46,3 +46,10 @@ export {
 //can we set things to boolean? 
 
 //what are the data types? what is the object hierarhcy? why are some capital
+//is schema based on variable name? waht is that based off? what is capital Schema dot types? 
+
+//what do we put into memory? is it just the things we want? 
+//does mongoose give us method of all objects and method? 
+//when do they get put into memory? 
+//what if we took everything 
+//what is a better way? whats the better way tot structure
