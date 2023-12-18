@@ -13,4 +13,8 @@ db.on('connected', function() {
 
 //what do it means when we say process env? what are we grabbing? what are we passing this into? what value and where is that coming from when we do that? 
 
-// do we need to destrucutre? do we grab the whole thing? 
+// do we need to destrucutre? do we grab the whole thing? how do we add nodemon to package? do we add it to scripts and start and say what? is it nodemon server.js? 
+
+//what happens if there is a auth problem? is it a handhskae thing? 
+
+// do we check the username and password? 

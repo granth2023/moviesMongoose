@@ -39,3 +39,10 @@ export {
 
 // can we use same string except for name for the db in other projects? what other package do we need to install? how do we isntall dot env  
 
+//how do we set this up? what do we declare? what do we put in teh schema varibale? 
+
+// waht do we set up for store new schema in? waht is new schema? what does new schema take? is it an objecT? what do we set then? what is the key and value? 
+
+//can we set things to boolean? 
+
+//what are the data types? what is the object hierarhcy? why are some capital
