@@ -21,3 +21,7 @@ router.get('/', function(req, res) {
 //then what does it do? next? or what? could that be it?  
 
 //what is a controller? is it importnat for middleware? what is a controller vs routes? why do they exist? why are they seperate from router? how do we stay organized? is it easier to see routes as themselves? are the conrollers modularized? 
+
+//what is express dot json? what is the same? what is cors fucntionality? is middleware just one line or can be many? how does it go to the next hting? 
+
+//what is a req.time being set? how do we add a time to a request we get? how does it become availabel to everything after? is it useful for server to know when request happened? if its in app.use how would it be useful? would it pop up later? what is req.basePath, what did we set it to? 
