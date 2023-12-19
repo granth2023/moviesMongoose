@@ -18,3 +18,9 @@ db.on('connected', function() {
 //what happens if there is a auth problem? is it a handhskae thing? 
 
 // do we check the username and password? 
+
+//what is the question? what is the validation? what are some ways we can validate? 
+
+// cna we make requirments and validiaotn on models? 
+
+// can we make sure we can implmeent a find one functionality? can we write function findOneToDo calling title? how would htat work? what parameter would we use? //
