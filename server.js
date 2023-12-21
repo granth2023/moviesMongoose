@@ -19,4 +19,8 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 //what goes into ERD?
 //what is authorizing users? what do you want authroizzed users to do? what would be different? 
-//are erd able to show us how database is structured? what lives in database? how do we create relationshisp between data? are some data dependent on one another? what are relationships in a phones model? 
+//are erd able to show us how database is structured? what lives in database? how do we create relationshisp between data? are some data dependent on one another? what are relationships in a phones model? what is the relationship between phone and model? does code udnerstand that? how do we get it to? somethign in code that does that? does eRD represent this? how do we add code to models? 
+
+//how do we model related data? what is embedding? what is referencing? is this when parent docuemnts hold entire sub documents? what is referencing? is that just the related docuemnts? 
+
+//what is the biggest difference? is reference just holding string of ID? what is embedding? is that holding the whole model? 
