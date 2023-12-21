@@ -15,4 +15,4 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 //function insert? 
 
-
+//what is the flow of data?
