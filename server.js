@@ -55,4 +55,8 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 // how do we create schema for subdocument? what do we call that? how do we put schemas into same file? how do we sperate them? is it better if we do? what does mongoose allow us to do on models? what is a min value? does timestamp create it? what is a review schema? 
 
-// how do define a movie schema?  whould it have reviews array? do we add a reviews aray into movies? do we modularize schemas? do we import them? 
+// how do define a movie schema?  whould it have reviews array? do we add a reviews aray into movies? do we modularize schemas? do we import them? how do we embedd review schema into movie schema? when we create review do we just add it to movie? so what does that look like for ERD? would you create a table? what is each column? are they field and type, is that the minimum? what is the option? 
+
+// each review get put array, does it have to abide by review schema? could cast be? 
+
+//one to many, how do we draw this? what is lucid app? 
