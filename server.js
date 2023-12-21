@@ -64,3 +64,5 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 // what is a table of reviews? 
 
 // what is a data model? what is an erd? what is data relaiotnships? 
+
+//what is the five step crud functionality? what is step one? what is the proper route? is it different for nested resource? 
