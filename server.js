@@ -38,3 +38,5 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 // can oyu make it more individulaized? can it populate the two? can oyu go back and grab an id and then implement? can you skip that?
 
 // do id's get stored get stored in same database? do they get stored in same collections? 
+
+// when you create another model, does it create another collection? 
