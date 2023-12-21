@@ -40,3 +40,7 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 // do id's get stored get stored in same database? do they get stored in same collections? 
 
 // when you create another model, does it create another collection? 
+
+//what are the models? people and contacts? are they two different models? do they refer to each other? 
+
+// what is the relationship beetween multiple models? how do we define these relationshiops? waht is a cardinal? what do they tell you ?what are relationships to one another? 
