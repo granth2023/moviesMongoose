@@ -15,4 +15,4 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 //function insert? 
 
-//what is the flow of data?
+//what is the flow of data?how does data flow? do you need a different set? how do we do that?? what are routes? what are controllers? are routes controlled with single resource? Waht are uri's fetching? what happens wehn we add new resources? do we need new models? rotues? controllers? 
