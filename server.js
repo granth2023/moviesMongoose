@@ -26,3 +26,5 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 //what is the biggest difference? is reference just holding string of ID? what is embedding? is that holding the whole model? 
 
 // how do you reference actual data? meaning what? do you access the parent doc and then get the child id? do you make another http request to get the thing that you are referencing? can you use them simulatnesouly? 
+
+// how would you show embedded? is it an array as one of the values? does it hold different type of values? is it holding the netire contact and then different things inside of that? What would a reference be? would it jsut be an id? 
