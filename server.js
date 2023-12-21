@@ -30,3 +30,5 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 // how would you show embedded? is it an array as one of the values? does it hold different type of values? is it holding the netire contact and then different things inside of that? What would a reference be? would it jsut be an id? 
 
 //is embedding entire document wihtin? is that just one request? 
+
+// does that reference something else? is there a model for contacts? tado you have a poeple colleciton and a contact colelciton? can you reference them? how does searching work in sub documetn or reference id? can you jsut find an object id? can you filter by type? can you get all contacts in array? can you reference something and object id being referenced, does it know its being referenced? 
