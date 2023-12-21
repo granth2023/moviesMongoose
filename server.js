@@ -48,3 +48,11 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 // one moive has mulitple reviews. review belongs to a movie. is it a one to many relationship? 
 
 //what are other one to many relationships? a post with mulitple likes? is the sun?what is a many to many? what is a relationship? does a movie have many performers? does an actor have many movies? is that many to many?  is it sharable? a school has? many products orders? social 
+
+//library books? can you those books be held? 
+
+//how do we embedd review into movies? 
+
+// how do we create schema for subdocument? what do we call that? how do we put schemas into same file? how do we sperate them? is it better if we do? what does mongoose allow us to do on models? what is a min value? does timestamp create it? what is a review schema? 
+
+// how do define a movie schema?  whould it have reviews array? do we add a reviews aray into movies? do we modularize schemas? do we import them? 
