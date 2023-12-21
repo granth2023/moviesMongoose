@@ -24,3 +24,5 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 //how do we model related data? what is embedding? what is referencing? is this when parent docuemnts hold entire sub documents? what is referencing? is that just the related docuemnts? 
 
 //what is the biggest difference? is reference just holding string of ID? what is embedding? is that holding the whole model? 
+
+// how do you reference actual data? meaning what? do you access the parent doc and then get the child id? do you make another http request to get the thing that you are referencing? can you use them simulatnesouly? 
