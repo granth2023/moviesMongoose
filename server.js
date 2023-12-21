@@ -79,4 +79,4 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 // si taht going into actual database? are we making request ot actual database? 
 
-//how do we deploy on heroku? do we hit create new projecT? 
+//how do we deploy on heroku? do we hit create new projecT? are they global names? 
