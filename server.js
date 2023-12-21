@@ -68,3 +68,15 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 //what is the five step crud functionality? what is step one? what is the proper route? is it different for nested resource? how do we talk about routes? what is the method? uri? what does it do? how does it respond to that url? what do we do firsT? is it figuring out the route? why? 
 
 // then we add routes? how? why? where? what does a route look like? what is the request passing? why is it hte url and the controller? does it contain any action? 
+
+// is this before anyhting is written in controller? is troute first step? do we check the route in postman to see if code written correctly? 
+
+// do we import from movies controller? why does it have that syntax 
+
+// as movie controller? then what? 
+
+// what would create review do? what would the function look like? does movie.review.push do anything? why? can you push whatever is coming in from post request? then can you use a save method? then why does it return a promise? what happens if save is successful what is redirect? is that a templacte? is that taking you to another url specifically? what is a nested promise? what is movie dot find by id? what is movie dot dave? why do they return as promises? what ia  dot then? what does the promise do? why not use async await? how then are we able to handle errors? what would async do? would oyu do a try catch? doe sa promise give you  better strucutre? are asynch waits used for anything? is that for http from front end and receive the response? what does it return? if redirect, do you use promises? 
+
+// si taht going into actual database? are we making request ot actual database? 
+
+//how do we deploy on heroku? do we hit create new projecT? 
