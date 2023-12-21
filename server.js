@@ -65,4 +65,6 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 // what is a data model? what is an erd? what is data relaiotnships? 
 
-//what is the five step crud functionality? what is step one? what is the proper route? is it different for nested resource? 
+//what is the five step crud functionality? what is step one? what is the proper route? is it different for nested resource? how do we talk about routes? what is the method? uri? what does it do? how does it respond to that url? what do we do firsT? is it figuring out the route? why? 
+
+// then we add routes? how? why? where? what does a route look like? what is the request passing? why is it hte url and the controller? does it contain any action? 
