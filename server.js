@@ -32,3 +32,5 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 //is embedding entire document wihtin? is that just one request? 
 
 // does that reference something else? is there a model for contacts? tado you have a poeple colleciton and a contact colelciton? can you reference them? how does searching work in sub documetn or reference id? can you jsut find an object id? can you filter by type? can you get all contacts in array? can you reference something and object id being referenced, does it know its being referenced? 
+
+//is object id default? do oyu need to define that in model? what if oyu want to make your own? what if iy ou want a different stirng? is object id out of the box?  
