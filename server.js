@@ -44,3 +44,7 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 //what are the models? people and contacts? are they two different models? do they refer to each other? 
 
 // what is the relationship beetween multiple models? how do we define these relationshiops? waht is a cardinal? what do they tell you ?what are relationships to one another? 
+
+// one moive has mulitple reviews. review belongs to a movie. is it a one to many relationship? 
+
+//what are other one to many relationships? a post with mulitple likes? is the sun?what is a many to many? what is a relationship? does a movie have many performers? does an actor have many movies? is that many to many?  is it sharable? a school has? many products orders? social 
