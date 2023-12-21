@@ -60,3 +60,7 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 // each review get put array, does it have to abide by review schema? could cast be? 
 
 //one to many, how do we draw this? what is lucid app? 
+
+// what is a table of reviews? 
+
+// what is a data model? what is an erd? what is data relaiotnships? 
