@@ -83,3 +83,10 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 
 // do we want script tag top or bottom of the html file? how do we use axios? how do we import thing? 
+//what does axios return? how do we handle it? can we do an asych await on it? 
+
+//how do we parse through API DOCUMENTS
+
+//how do we right random cat third party call? do we do a try cathc? why do we get a promise that is still pending? what is axios responding? is it responding apart of that? how do we jsut get the cat? 
+
+// how do we make a api call? do we do async fucntion? do we do a axios get request? do we store that in response? do we return response dot data at a certain index? do we need to do dot url? can we return image? can we make code reusable? can we strip image out? 
