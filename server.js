@@ -80,3 +80,6 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 // si taht going into actual database? are we making request ot actual database? 
 
 //how do we deploy on heroku? do we hit create new projecT? are they global names? 
+
+
+// do we want script tag top or bottom of the html file? how do we use axios? how do we import thing? 
