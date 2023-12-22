@@ -90,3 +90,14 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 //how do we right random cat third party call? do we do a try cathc? why do we get a promise that is still pending? what is axios responding? is it responding apart of that? how do we jsut get the cat? 
 
 // how do we make a api call? do we do async fucntion? do we do a axios get request? do we store that in response? do we return response dot data at a certain index? do we need to do dot url? can we return image? can we make code reusable? can we strip image out? do we create button for click and image? what are we storing in the img variable? do we make it get random cat fucntion dot url? do we call the function at the end? do we have to update the image selement for source? what happens when we get 404? if it's lib/undefined, where do we console log? how do we console log? did dot url work? do we say dot url on the img source? does this create new errors? is image elemnet correct? console llog image element? what happens when we add console log? what happens if we console dot log image source? what happens when we return a promise? from get random cat? do we need to add async await? now what? 
+
+//valid api key// 
+
+// input has a class called input element how do i put api ky a the top / cont 
+//how do we get category ID into dollar sign? how do call axios? what do we pass? what is a header? why? do we include the api key? // do put it al in category id? do we need promses? do we catch error? do we pass cateogry id into our get http? how do we make this work? do you have to put a function inside here? how do we define it outsde? can we do a fucntion in our cat button // we have the button, and the category input value what do we call function? 
+
+// how do pass the id? in what funciton? do we have to return a promise outside of get category?  category  do we have to mkae our callback function async? category cat? 
+
+//how do we return response data? 
+
+// document dot query selector? how do we pull a query selector 
