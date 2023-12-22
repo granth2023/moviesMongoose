@@ -89,4 +89,4 @@ import { insertDummyMovie } from './controllers/moviecontroller.js';
 
 //how do we right random cat third party call? do we do a try cathc? why do we get a promise that is still pending? what is axios responding? is it responding apart of that? how do we jsut get the cat? 
 
-// how do we make a api call? do we do async fucntion? do we do a axios get request? do we store that in response? do we return response dot data at a certain index? do we need to do dot url? can we return image? can we make code reusable? can we strip image out? 
+// how do we make a api call? do we do async fucntion? do we do a axios get request? do we store that in response? do we return response dot data at a certain index? do we need to do dot url? can we return image? can we make code reusable? can we strip image out? do we create button for click and image? what are we storing in the img variable? do we make it get random cat fucntion dot url? do we call the function at the end? do we have to update the image selement for source? what happens when we get 404? if it's lib/undefined, where do we console log? how do we console log? 
